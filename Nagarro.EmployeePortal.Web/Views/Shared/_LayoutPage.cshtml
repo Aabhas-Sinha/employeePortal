@@ -1,0 +1,87 @@
+﻿@using System.Web.Optimization;
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/nagarroEmployeePortalCss");
+    @*<link href="@Url.Content("~/Content/bootstrap-theme.min.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/bootstrap.min.css")" rel="stylesheet" type="text/css" />*@
+
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div>
+            <div class="navbar-header">
+
+
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href='@Url.Action("Index","Home")'>Employee Portal</a>
+            </div>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href='@Url.Action("Index","Home")'>Home</a></li>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li><a href='@Url.Action("GetActiveNotices","Notice")'>Notice</a></li>
+                        }
+                        else
+                        {
+                            <li><a href='@Url.Action("GetCurrentNotices","Notice")'>Notice</a></li>
+                        }
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li><a href='@Url.Action("Index","Home")'>Issue</a></li>
+                        }
+                        else
+                        {
+                            <li><a href='@Url.Action("Index", "Home")'>Issue</a></li>
+                        }
+                        <li><a href='@Url.Action("SearchEmployee", "User")'>Employees</a></li>
+
+                    </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Welcome (@User.Identity.Name)<span class="glyphicon glyphicon-user"></span><span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href='@Url.Action("EditProfile","Account")'>Edit Profile</a></li>
+                                <li class="divider"></li>
+                                <li><a href="~/Account/Logout" class="bg-danger">Logout</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+
+                </div>//.nav-collapse 
+            }
+        </div>
+    </nav>
+
+    <div class="container" style="margin-top:100px;">
+        @RenderBody()
+    </div>
+
+    @Scripts.Render("~/bundles/externalScriptsReferenced");
+    @Scripts.Render("~/bundles/nagarroEmployeePortalScripts");
+
+    <script type="text/javascript">
+        $('div').on('show.bs.modal', function () {
+            $('.modal-backdrop.fade.in').remove();
+        });
+    </script>
+
+    @RenderSection("scripts", false);
+
+   
+    
+
+</body>
+</html>

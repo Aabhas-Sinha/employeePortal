@@ -1,0 +1,58 @@
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Web.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Web.Shared.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.pdb
+C:\Users\shrutisinghal\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Web.Shared.dll
+C:\Users\shrutisinghal\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Web.Shared.pdb
+C:\Users\shrutisinghal\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.csprojResolveAssemblyReference.cache
+C:\Users\shrutisinghal\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.dll
+C:\Users\shrutisinghal\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.pdb
+C:\Users\shrutisinghal\Desktop\New folder\EmployeePortal(4208)\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Web.Shared.dll
+C:\Users\shrutisinghal\Desktop\New folder\EmployeePortal(4208)\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Web.Shared.pdb
+C:\Users\shrutisinghal\Desktop\New folder\EmployeePortal(4208)\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.csprojResolveAssemblyReference.cache
+C:\Users\shrutisinghal\Desktop\New folder\EmployeePortal(4208)\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.dll
+C:\Users\shrutisinghal\Desktop\New folder\EmployeePortal(4208)\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.pdb
+C:\Users\sonalijain\Documents\DayTraining\C#\EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.csprojResolveAssemblyReference.cache
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Web.Shared.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Web.Shared.pdb
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.csprojResolveAssemblyReference.cache
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.pdb
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Web.Shared.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Web.Shared.pdb
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.csprojResolveAssemblyReference.cache
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.pdb
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Web.Shared.dll
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Web.Shared.pdb
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Newtonsoft.Json.dll
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\System.Net.Http.Formatting.dll
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\System.Web.Http.dll
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\System.Web.Http.WebHost.dll
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Newtonsoft.Json.xml
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\System.Net.Http.Formatting.xml
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\System.Web.Http.xml
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\System.Web.Http.WebHost.xml
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.csprojResolveAssemblyReference.cache
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.dll
+C:\Apps\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.pdb
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Web.Shared.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Web.Shared.pdb
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Newtonsoft.Json.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\System.Net.Http.Formatting.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\System.Web.Http.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\System.Web.Http.WebHost.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\System.Net.Http.Formatting.xml
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\System.Web.Http.xml
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Debug\System.Web.Http.WebHost.xml
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.csprojResolveAssemblyReference.cache
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Debug\Nagarro.EmployeePortal.Web.Shared.pdb

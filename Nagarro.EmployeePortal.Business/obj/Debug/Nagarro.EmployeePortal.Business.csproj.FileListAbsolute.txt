@@ -1,0 +1,216 @@
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.xml
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\da\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\de\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\es\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\fi\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\fr\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\it\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\ko\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\mk\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\nl\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\pl\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\pt\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\ru\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\sv\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\tr\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.csprojResolveAssemblyReference.cache
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.xml
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\da\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\de\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\es\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\fi\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\fr\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\it\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\ko\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\mk\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\nl\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\pl\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\pt\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\ru\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\sv\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\bin\Debug\tr\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.csprojResolveAssemblyReference.cache
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.xml
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\da\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\de\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\es\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\fi\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\fr\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\it\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\ko\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\mk\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\nl\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\pl\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\pt\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\ru\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\sv\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\bin\Debug\tr\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.csprojResolveAssemblyReference.cache
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.xml
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\da\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\de\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\es\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\fi\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\fr\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\it\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\ko\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\mk\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\nl\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\pl\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\pt\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\ru\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\sv\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\bin\Debug\tr\FluentValidation.resources.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.csprojResolveAssemblyReference.cache
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.pdb
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.dll.config
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.pdb
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\EntityFramework.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\EntityFramework.xml
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.pdb
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.xml
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.csprojResolveAssemblyReference.cache
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.dll
+C:\Users\sonalijain\Documents\Training Assignments\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.pdb
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.dll.config
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.pdb
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\EntityFramework.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\EntityFramework.xml
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.pdb
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.xml
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.csprojResolveAssemblyReference.cache
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.dll
+C:\Users\sonalijain\Documents\DayTraining\C#\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.pdb
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.dll.config
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.pdb
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\EntityFramework.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\EntityFramework.xml
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.pdb
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.xml
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\cs\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\da\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\de\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\es\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\fa\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\fi\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\fr\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\it\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\ko\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\mk\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\nl\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\pl\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\pt\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\ru\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\sv\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\tr\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.csprojResolveAssemblyReference.cache
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.dll
+D:\Exit test\EmployeePortal2016\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.pdb
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.dll.config
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Business.pdb
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\EntityFramework.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\EntityFramework.xml
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.pdb
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\FluentValidation.xml
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\cs\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\da\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\de\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\es\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\fa\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\fi\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\fr\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\it\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\ko\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\mk\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\nl\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\pl\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\pt\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\ru\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\sv\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\tr\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.csprojResolveAssemblyReference.cache
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.dll
+C:\Basic\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Business\obj\Debug\Nagarro.EmployeePortal.Business.pdb

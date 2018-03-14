@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{45D36141-68BC-4F02-B5C1-0203FB99F1DD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Nagarro.EmployeePortal.EntityDataModel</RootNamespace>
+    <AssemblyName>Nagarro.EmployeePortal.EntityDataModel</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Converter\EntityConverter.cs" />
+    <Compile Include="EntityModel\Department.cs">
+      <DependentUpon>Portal.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityModel\Employee.cs">
+      <DependentUpon>Portal.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityModel\GetAllIssuesByEmployeeId_Result.cs">
+      <DependentUpon>Portal.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityModel\GetIssueHistoryByIssueId_Result.cs">
+      <DependentUpon>Portal.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityModel\Issue.cs">
+      <DependentUpon>Portal.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityModel\IssueHistory.cs">
+      <DependentUpon>Portal.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityModel\Notice.cs">
+      <DependentUpon>Portal.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityModel\PartialClasses\EmployeePortalEntities.cs" />
+    <Compile Include="EntityModel\Portal.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Portal.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityModel\Portal.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Portal.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityModel\Portal.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Portal.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="EntityModel\SearchEmployee_Result.cs">
+      <DependentUpon>Portal.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityModel\User.cs">
+      <DependentUpon>Portal.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Exception\EntityConversionException.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Nagarro.EmployeePortal.Shared\Nagarro.EmployeePortal.Shared.csproj">
+      <Project>{79893ca7-1561-49a5-93c5-cf80fc1b59a5}</Project>
+      <Name>Nagarro.EmployeePortal.Shared</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config" />
+    <EntityDeploy Include="EntityModel\Portal.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Portal.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="EntityModel\Portal.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Portal.edmx</DependentUpon>
+      <LastGenOutput>Portal.Context.cs</LastGenOutput>
+    </None>
+    <None Include="EntityModel\Portal.edmx.diagram">
+      <DependentUpon>Portal.edmx</DependentUpon>
+    </None>
+    <None Include="EntityModel\Portal.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Portal.edmx</DependentUpon>
+      <LastGenOutput>Portal.cs</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>copy "*$(TargetExt)" "$(SolutionDir)OutputBin"</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

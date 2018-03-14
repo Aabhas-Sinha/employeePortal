@@ -1,0 +1,5 @@
+C:\Users\shrutisinghal\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Release\Nagarro.EmployeePortal.Web.Shared.dll
+C:\Users\shrutisinghal\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\bin\Release\Nagarro.EmployeePortal.Web.Shared.pdb
+C:\Users\shrutisinghal\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Release\Nagarro.EmployeePortal.Web.Shared.csprojResolveAssemblyReference.cache
+C:\Users\shrutisinghal\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Release\Nagarro.EmployeePortal.Web.Shared.dll
+C:\Users\shrutisinghal\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Web.Shared\obj\Release\Nagarro.EmployeePortal.Web.Shared.pdb
